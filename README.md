@@ -1,3 +1,7 @@
+# Quarkus rest client example
+
+This project has been creating starting from https://quarkus.io/guides/rest-client and then adding the reactive support (quarkus-resteasy-reactive)
+
 ## Steps to reproduce the issue
 
  * execute `./buildDocker.sh` (it will create an image called quarkus-quickstart/rest-client-quickstart using the native build)
@@ -12,4 +16,3 @@
 `
 
 ...
-
