@@ -1,5 +1,4 @@
-Quarkus guide: https://quarkus.io/guides/rest-client
-
+## Steps to reproduce the issue
 
  * execute `./buildDocker.sh` (it will create an image called quarkus-quickstart/rest-client-quickstart using the native build)
  * execute `./runDocker.sh` (it will start a container exposing the port 8080)
